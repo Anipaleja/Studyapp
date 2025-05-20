@@ -1,8 +1,55 @@
-# Studyapp
+# StudyApp
 
-These are the files for the Xcode ios version of the study app. 
-ContentView.swift file is main file that holds together the other pages. 
+StudyApp is an AI-powered productivity tool designed to help students organize their study routines, track performance, and stay focused. It uses cutting-edge features like flashcards, smart reminders, and interactive quizzes, all in a sleek and modern UI.
 
-In this app, im using some API keys that we can switch to become local later. I plan to try to NOT use as many APIs as possible, to limit the complications that can arise. 
+🚧 Work in Progress: StudyApp is currently under active development. Expect exciting features to roll out regularly. Feedback and suggestions are always welcome!
 
-I have an API in here for an AI assistant that I am currently incorporating into the app. 
+# Features (Planned & In Progress)
+
+Flashcards: Create, manage, and review smart flashcards powered by spaced repetition.
+
+AI Quiz Generator: Turn notes into interactive quizzes with instant feedback.
+
+Timetable & Planner: Schedule your study sessions and get daily reminders.
+
+Performance Tracking: View analytics and insights into your progress.
+
+Multi-platform Support: Native iOS app, with Android support in progress.
+
+# Installation:
+
+Clone the repository:
+
+git clone https://github.com/yourusername/studyapp.git
+
+cd studyapp
+
+Install dependencies (iOS):
+
+cd ios
+
+pod install
+
+Open the project in Xcode:
+
+open StudyApp.xcworkspace
+
+Run on a simulator or physical device.
+
+**Note: For Android support, Flutter modules are currently being integrated.**
+
+# Tech Stack
+
+Frontend: Swift (UIKit + SwiftUI), Flutter modules for cross-platform features
+
+Backend: Firebase (Auth, Firestore), Auth0, Groq API for AI features
+
+AI Services (coming soon): Custom NLP for quiz generation and study recommendations
+
+# Contributing
+
+Contributions are welcome! Whether you're a student, developer, or designer, we’d love your input. Please open an issue to propose changes or improvements.
+
+# License
+
+MIT Licence
