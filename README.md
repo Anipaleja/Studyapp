@@ -20,19 +20,19 @@ Multi-platform Support: Native iOS app, with Android support in progress.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/studyapp.git
+    git clone https://github.com/anipaleja/Studyapp.git
 
-cd studyapp
+    cd studyapp
 
 Install dependencies (iOS):
 
-cd ios
+    cd ios
 
-pod install
+    pod install
 
-Open the project in Xcode:
+    Open the project in Xcode:
 
-open StudyApp.xcworkspace
+    open StudyApp.xcworkspace
 
 Run on a simulator or physical device.
 
