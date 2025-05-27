@@ -2,7 +2,7 @@
 
 StudyApp is an AI-powered productivity tool designed to help students organize their study routines, track performance, and stay focused. It uses cutting-edge features like flashcards, smart reminders, and interactive quizzes, all in a sleek and modern UI.
 
-🚧 Work in Progress: StudyApp is currently under active development. Expect exciting features to roll out regularly. Feedback and suggestions are always welcome!
+**Work in Progress**: StudyApp is currently under active development. Expect exciting features to roll out regularly. Feedback and suggestions are always welcome!
 
 # Features (Planned & In Progress)
 
