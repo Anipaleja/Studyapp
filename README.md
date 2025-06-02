@@ -10,7 +10,7 @@ StudyApp is an AI-powered productivity tool designed to help students organize t
 
 **AI Quiz Generator:** Turn notes into interactive quizzes with instant feedback.
 
-Timetable & Planner: Schedule your study sessions and get daily reminders.
+**Timetable & Planner:** Schedule your study sessions and get daily reminders.
 
 Performance Tracking: View analytics and insights into your progress.
 
