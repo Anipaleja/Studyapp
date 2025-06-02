@@ -12,7 +12,7 @@ StudyApp is an AI-powered productivity tool designed to help students organize t
 
 **Timetable & Planner:** Schedule your study sessions and get daily reminders.
 
-Performance Tracking: View analytics and insights into your progress.
+**Performance Tracking:** View analytics and insights into your progress.
 
 Multi-platform Support: Native iOS app, with Android support in progress.
 
