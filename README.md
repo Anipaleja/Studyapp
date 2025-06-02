@@ -6,7 +6,7 @@ StudyApp is an AI-powered productivity tool designed to help students organize t
 
 # Features (Planned & In Progress)
 
-Flashcards: Create, manage, and review smart flashcards powered by spaced repetition.
+**Flashcards:** Create, manage, and review smart flashcards powered by spaced repetition.
 
 AI Quiz Generator: Turn notes into interactive quizzes with instant feedback.
 
