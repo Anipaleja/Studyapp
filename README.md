@@ -15,10 +15,10 @@ StudyApp is an AI-powered productivity tool designed to help students organize t
 # Installation:
 
 Clone the repository:
-
-    git clone https://github.com/anipaleja/Studyapp.git
-    cd studyapp
-
+```bash
+git clone https://github.com/anipaleja/Studyapp.git
+cd studyapp
+```
 Install dependencies (iOS):
 ```bash
 cd ios
@@ -37,9 +37,7 @@ Run on a simulator or physical device.
 # Tech Stack
 
 Frontend: Swift (UIKit + SwiftUI), Flutter modules for cross-platform features
-
 Backend: Firebase (Auth, Firestore), Auth0, Groq API for AI features
-
 AI Services (coming soon): Custom NLP for quiz generation and study recommendations
 
 # Contributing
