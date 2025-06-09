@@ -25,9 +25,9 @@ cd ios
 pod install
 ```
 Open the project in Xcode:
-  
+```bash 
 open StudyApp.xcworkspace
-
+```
 Run on a simulator or physical device.
 
 **Note: Android support not available yet, feel free to contriibute though!**
