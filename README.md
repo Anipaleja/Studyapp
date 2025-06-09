@@ -6,33 +6,27 @@ StudyApp is an AI-powered productivity tool designed to help students organize t
 
 # Features (Planned & In Progress)
 
-**Flashcards:** Create, manage, and review smart flashcards powered by spaced repetition.
-
-**AI Quiz Generator:** Turn notes into interactive quizzes with instant feedback.
-
-**Timetable & Planner:** Schedule your study sessions and get daily reminders.
-
-**Performance Tracking:** View analytics and insights into your progress.
-
-**Multi-platform Support:** Native iOS app, with Android support in progress.
+- **Flashcards:** Create, manage, and review smart flashcards powered by spaced repetition.
+- **AI Quiz Generator:** Turn notes into interactive quizzes with instant feedback.
+- **Timetable & Planner:** Schedule your study sessions and get daily reminders.
+- **Performance Tracking:** View analytics and insights into your progress.
+- **Multi-platform Support:** Native iOS app, with Android support in progress.
 
 # Installation:
 
 Clone the repository:
 
     git clone https://github.com/anipaleja/Studyapp.git
-
     cd studyapp
 
 Install dependencies (iOS):
-
-    cd ios
-
-    pod install
-
-    Open the project in Xcode:
-
-    open StudyApp.xcworkspace
+```bash
+cd ios
+pod install
+```
+Open the project in Xcode:
+  
+open StudyApp.xcworkspace
 
 Run on a simulator or physical device.
 
