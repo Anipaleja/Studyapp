@@ -1,6 +1,6 @@
 # StudyApp
 [![Swift](https://img.shields.io/badge/Swift-5.9-orange?logo=swift&logoColor=white)](https://swift.org/)
-[![Xcode](https://img.shields.io/badge/Xcode-15.0-blue?logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
+[![Xcode](https://img.shields.io/badge/Xcode-15.0-black?logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
 [![iOS](https://img.shields.io/badge/iOS-17+-lightgrey?logo=apple&logoColor=black)](https://developer.apple.com/ios/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/anipaleja/Studyapp?style=social)](https://github.com/anipaleja/Studyapp/stargazers)
