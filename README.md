@@ -2,8 +2,9 @@
 [![Swift](https://img.shields.io/badge/Swift-5.9-orange?logo=swift&logoColor=white)](https://swift.org/)
 [![Xcode](https://img.shields.io/badge/Xcode-15.0-blue?logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
 [![iOS](https://img.shields.io/badge/iOS-17+-lightgrey?logo=apple&logoColor=black)](https://developer.apple.com/ios/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/anipaleja/Studyapp?style=social)](https://github.com/anipaleja/Studyapp/stargazers)
+
 StudyApp is an AI-powered productivity tool designed to help students organize their study routines, track performance, and stay focused. It uses cutting-edge features like flashcards, smart reminders, and interactive quizzes, all in a sleek and modern UI.
 
 **Work in Progress**: StudyApp is currently under active development. Expect exciting features to roll out regularly. Feedback and suggestions are always welcome!
