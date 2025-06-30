@@ -41,11 +41,11 @@ Run on a simulator or physical device.
 
 # Tech Stack
 
-Frontend: Swift (UIKit + SwiftUI), Flutter modules for cross-platform features.
+**Frontend:** Swift (UIKit + SwiftUI), Flutter modules for cross-platform features.
 
-Backend: Firebase (Auth, Firestore), Auth0, Groq API for AI features.
+**Backend:** Firebase (Auth, Firestore), Auth0, Groq API for AI features.
 
-AI Services (coming soon): Custom NLP for quiz generation and study recommendations.
+**AI Services (coming soon):** Custom NLP for quiz generation and study recommendations.
 
 # Contributing
 
