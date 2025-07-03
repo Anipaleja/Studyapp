@@ -5,9 +5,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/anipaleja/Studyapp?style=social)](https://github.com/anipaleja/Studyapp/stargazers)
 
-StudyApp is an AI-powered productivity tool designed to help students organize their study routines, track performance, and stay focused. It uses cutting-edge features like flashcards, smart reminders, and interactive quizzes, all in a sleek and modern UI.
+StudyApp (To still be named) is an AI-powered productivity tool designed to help students organize their study routines, track performance, and stay focused. It uses cutting-edge features like flashcards, smart reminders, and interactive quizzes, all in a sleek and modern UI.
 
-**Work in Progress**: StudyApp is currently under active development. Expect exciting features to roll out regularly. Feedback and suggestions are always welcome!
+> ***Work in Progress***: StudyApp is currently under active development. Expect exciting features to roll out regularly. Feedback and suggestions are always welcome!
 
 # Features (Planned & In Progress)
 
@@ -35,9 +35,9 @@ open StudyApp.xcworkspace
 ```
 Run on a simulator or physical device.
 
-**Note: Android support not available yet, feel free to contriibute though!**
+> **Note: Android support not available yet, feel free to contriibute though!**
 
-**Note: For Android support, Flutter modules are currently being integrated.**
+> **Note: For Android support, Flutter modules are currently being integrated.**
 
 # Tech Stack
 
@@ -50,6 +50,8 @@ Run on a simulator or physical device.
 # Contributing
 
 Contributions are welcome! Whether you're a student, developer, or designer, we’d love your input. Please open an issue to propose changes or improvements.
+
+**Naming:** If you have any suggestions for naming, please feel free to open an issue with with some suggestions!
 
 # License
 
