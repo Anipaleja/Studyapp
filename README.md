@@ -51,7 +51,7 @@ Run on a simulator or physical device.
 
 Contributions are welcome! Whether you're a student, developer, or designer, we’d love your input. Please open an issue to propose changes or improvements.
 
-**Naming:** If you have any suggestions for naming, please feel free to open an issue with with some suggestions!
+> **Naming:** If you have any suggestions for naming, please feel free to open an issue with with some suggestions!
 
 # License
 
