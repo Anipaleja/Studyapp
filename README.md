@@ -35,9 +35,9 @@ open StudyApp.xcworkspace
 ```
 Run on a simulator or physical device.
 
-> **Note: Android support not available yet, feel free to contriibute though!**
+> **Note:** Android support not available yet, feel free to contriibute though!
 
-> **Note: For Android support, Flutter modules are currently being integrated.**
+> **Note:** For Android support, Flutter modules are currently being integrated.
 
 # Tech Stack
 
